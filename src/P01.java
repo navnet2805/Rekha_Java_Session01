@@ -4,5 +4,6 @@ public class P01 {
 
         System.out.println("Hello World");
         System.out.println("hi01");
+        System.out.println("Java");
     }
 }

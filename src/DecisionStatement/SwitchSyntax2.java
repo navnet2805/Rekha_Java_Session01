@@ -17,6 +17,7 @@ public class SwitchSyntax2 {
             default ->"none of the conditions are matched.";
         };
 
+
         System.out.println(valuevariable);
     }
 }

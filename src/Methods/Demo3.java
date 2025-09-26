@@ -1,6 +1,6 @@
 package Methods;
 
-public class Demo3 {
+public class Demo3 { //methodOverloading
 
     public static void sum(int a, int b)
     {
@@ -11,6 +11,7 @@ public class Demo3 {
     {
         System.out.println(a+b);
     }
+
 
     public static void sum(int a, int b, int c)
     {

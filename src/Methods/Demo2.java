@@ -14,6 +14,7 @@ public class Demo2 {
 
     public static void main(String[] args) {
         sum();
-        sum(5);
+        int a = 5;
+        sum(a);
     }
 }

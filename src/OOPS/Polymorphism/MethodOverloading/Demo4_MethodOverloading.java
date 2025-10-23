@@ -1,4 +1,4 @@
-package Methods;
+package OOPS.Polymorphism.MethodOverloading;
 
 public class Demo4_MethodOverloading {
 

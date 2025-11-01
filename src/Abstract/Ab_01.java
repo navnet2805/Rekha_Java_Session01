@@ -8,7 +8,9 @@ public abstract class Ab_01 {
     }
 
     //static member
-    static  int a = 10;
+    static int a = 10;
+
+    final static int c = 40; //final member
 
     static
     {
@@ -32,9 +34,10 @@ public abstract class Ab_01 {
         System.out.println("ns method");
     }
 
-   abstract public void m03(); //abstract method
+    abstract public void m03(); //abstract method
 
     public static void main(String[] args) {
       //  new Ab_01(); --> Object can not be created , because of abstract method
+
     }
 }
